@@ -4,4 +4,4 @@
 
 ## Case Studies
 
-* [Why Dolt](case-studies/ntc.md)
+* [Network Automation](case-studies/ntc.md)
