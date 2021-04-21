@@ -4,4 +4,4 @@
 
 ## Case Studies
 
-* [Network Automation](case-studies/ntc.md)
+* [Network Automation](case-studies/network-automation-with-nautobot-and-dolt.md)
