@@ -1,5 +1,5 @@
 ---
-title: NTC Case Study
+title: Network Automation with Nautobot and Dolt
 ---
 
 ## Background
